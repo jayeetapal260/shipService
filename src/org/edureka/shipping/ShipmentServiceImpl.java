@@ -5,13 +5,13 @@ public class ShipmentServiceImpl implements IShipment {
 	@Override
 	public boolean addShipment() {
 		// TODO Auto-generated method stub
-		//delete shipment
 		return false;
 	}
 
 	@Override
 	public boolean deleteShipment() {
 		// TODO Auto-generated method stub
+		//delete shipment
 		return false;
 	}
 
