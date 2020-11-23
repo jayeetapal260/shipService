@@ -5,6 +5,7 @@ public class ShipmentServiceImpl implements IShipment {
 	@Override
 	public boolean addShipment() {
 		// TODO Auto-generated method stub
+		//in memory operation
 		return false;
 	}
 
@@ -21,5 +22,8 @@ public class ShipmentServiceImpl implements IShipment {
 		//get shipment
 		return false;
 	}
-
+	public boolean inmemory() {
+		// TODO Auto-generated method stub
+		return false;
+}
 }
