@@ -5,7 +5,7 @@ public class ShipmentServiceImpl implements IShipment {
 	@Override
 	public boolean addShipment() {
 		// TODO Auto-generated method stub
-		//addition module
+		//in memory operation
 		return false;
 	}
 
